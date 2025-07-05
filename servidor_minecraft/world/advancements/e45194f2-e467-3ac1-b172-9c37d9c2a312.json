@@ -6275,9 +6275,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-07-05 14:19:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/cold_parachute": {
     "criteria": {
       "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
+    "criteria": {
+      "has_skyroot_pickaxe": "2025-07-05 14:21:32 +0000"
     },
     "done": true
   },
