@@ -6088,3 +6088,47 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jul2025 17:47:37.995] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [05Jul2025 17:47:38.008] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [05Jul2025 17:47:53.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 17:48:54.994] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 17:48:55.004] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 17:49:19.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 17:50:11.150] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[05Jul2025 17:50:11.156] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[05Jul2025 17:50:18.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:50:18.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 17:50:35.698] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 17:50:35.706] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 17:51:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 17:51:11.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Warden
+[05Jul2025 17:51:11.103] [Server thread/DEBUG] [tombstone/]: A new grave of the player Misterchuwa was created at position [x:-2447, y:-54, z:-3963, dim:minecraft:overworld]
+[05Jul2025 17:51:12.793] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751737872760
+[05Jul2025 17:51:59.908] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 17:51:59.911] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 17:52:23.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has completed the challenge [Phantom Thief]
+[05Jul2025 17:52:24.557] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 17:52:24.560] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 17:53:54.652] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 17:53:54.655] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 17:55:18.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:55:18.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 17:56:10.505] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 17:56:10.508] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 17:56:12.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from unholy damage
+[05Jul2025 17:56:12.455] [Server thread/DEBUG] [tombstone/]: A new grave of the player JAGlitsh was created at position [x:-2455, y:-47, z:-3980, dim:minecraft:overworld]
+[05Jul2025 17:56:12.457] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 17:56:21.675] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751738181675
+[05Jul2025 17:57:02.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2523.500000, -53.500000, -4136.500000]
+[05Jul2025 17:57:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 17:57:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 17:58:19.706] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 17:58:19.715] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 17:58:30.553] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[05Jul2025 17:58:30.555] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[05Jul2025 17:58:31.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[05Jul2025 17:58:31.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 17:58:31.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Warden
+[05Jul2025 17:58:31.658] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2525, y:-50, z:-4093, dim:minecraft:overworld]
+[05Jul2025 17:58:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa tried to swim in lava to escape Warden
+[05Jul2025 17:58:33.059] [Server thread/DEBUG] [tombstone/]: A new grave of the player Misterchuwa was created at position [x:-2524, y:-54, z:-4125, dim:minecraft:overworld]
+[05Jul2025 17:58:33.062] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[05Jul2025 17:58:35.428] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751738315414
+[05Jul2025 17:58:43.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
