@@ -6461,6 +6461,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-07-05 17:28:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_dart_shooter": {
     "criteria": {
       "has_skyroot_planks": "2025-07-05 16:03:10 +0000"
@@ -6488,6 +6494,18 @@
   "aether:recipes/misc/skyroot_stick": {
     "criteria": {
       "has_planks": "2025-07-05 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-07-05 17:28:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-07-05 17:28:08 +0000"
     },
     "done": true
   },
@@ -6536,6 +6554,12 @@
   "aether:recipes/redstone/skyroot_trapdoor": {
     "criteria": {
       "has_skyroot_planks": "2025-07-05 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-07-05 17:28:08 +0000"
     },
     "done": true
   },
