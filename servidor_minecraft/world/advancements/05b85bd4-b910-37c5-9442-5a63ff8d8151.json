@@ -6976,6 +6976,12 @@
     },
     "done": true
   },
+  "aether:craft_altar": {
+    "criteria": {
+      "craft_altar": "2025-07-05 15:00:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/healing_stone_enchanting": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"

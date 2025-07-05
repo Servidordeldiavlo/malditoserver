@@ -6305,6 +6305,12 @@
     },
     "done": true
   },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2025-07-05 14:55:05 +0000"
+    },
+    "done": true
+  },
   "exposure:recipes/copying_black_and_white_photograph": {
     "criteria": {
       "has_photograph": "2025-07-05 14:36:54 +0000"
