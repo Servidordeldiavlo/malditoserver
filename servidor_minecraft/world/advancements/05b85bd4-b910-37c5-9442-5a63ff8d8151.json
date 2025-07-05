@@ -3738,7 +3738,8 @@
     "criteria": {
       "shattered": "2025-07-05 18:44:53 +0000",
       "phantom": "2025-06-24 17:57:35 +0000",
-      "warden": "2025-07-05 18:55:03 +0000"
+      "warden": "2025-07-05 18:55:03 +0000",
+      "sculk_snapper": "2025-07-05 19:04:01 +0000"
     },
     "done": false
   },
@@ -7374,6 +7375,12 @@
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2025-07-05 17:50:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-07-05 19:04:01 +0000"
     },
     "done": true
   },

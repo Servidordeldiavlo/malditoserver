@@ -4273,7 +4273,9 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2025-07-05 18:46:03 +0000",
-      "phantom": "2025-06-25 03:39:28 +0000"
+      "phantom": "2025-06-25 03:39:28 +0000",
+      "shriek_worm": "2025-07-05 19:04:54 +0000",
+      "warden": "2025-07-05 18:59:05 +0000"
     },
     "done": false
   },
@@ -6345,6 +6347,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-07-05 18:59:05 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-05 18:37:48 +0000"
@@ -6372,6 +6380,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-05 18:37:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 19:00:07 +0000"
     },
     "done": true
   },

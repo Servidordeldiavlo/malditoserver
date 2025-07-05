@@ -4073,6 +4073,8 @@
       "shattered": "2025-07-05 18:38:48 +0000",
       "phantom": "2025-06-25 03:36:23 +0000",
       "shriek_worm": "2025-07-05 18:35:28 +0000",
+      "sculk_leech": "2025-07-05 19:04:52 +0000",
+      "warden": "2025-07-05 19:02:40 +0000",
       "sculk_snapper": "2025-07-05 18:45:46 +0000"
     },
     "done": false
@@ -6959,6 +6961,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-07-05 18:59:18 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/resonarium_plate": {
     "criteria": {
       "has_resonarium": "2025-07-05 18:46:20 +0000"
@@ -7034,6 +7042,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:39:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-07-05 19:02:40 +0000"
     },
     "done": true
   },
