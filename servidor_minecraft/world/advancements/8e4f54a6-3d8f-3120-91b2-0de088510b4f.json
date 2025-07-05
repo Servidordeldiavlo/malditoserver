@@ -567,6 +567,7 @@
       "minecraft:witch": "2025-06-23 23:14:03 +0000",
       "minecraft:wither_skeleton": "2025-06-26 22:08:00 +0000",
       "minecraft:husk": "2025-06-23 22:15:21 +0000",
+      "minecraft:shulker": "2025-07-05 22:33:44 +0000",
       "minecraft:enderman": "2025-06-23 23:13:50 +0000",
       "minecraft:silverfish": "2025-07-03 04:13:50 +0000",
       "minecraft:stray": "2025-07-05 20:00:46 +0000",
@@ -7422,6 +7423,18 @@
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-07-05 22:10:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 22:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-05 22:30:41 +0000"
     },
     "done": true
   },
