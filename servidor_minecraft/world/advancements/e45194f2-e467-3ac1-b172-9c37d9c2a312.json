@@ -6431,6 +6431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-05 17:43:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fence": {
     "criteria": {
       "has_skyroot_planks": "2025-07-05 16:03:10 +0000"
@@ -6452,6 +6458,12 @@
   "aether:bronze_dungeon": {
     "criteria": {
       "kill_slider": "2025-07-05 15:55:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-07-05 17:41:41 +0000"
     },
     "done": true
   },
@@ -6512,6 +6524,18 @@
   "aether:recipes/redstone/skyroot_pressure_plate": {
     "criteria": {
       "has_skyroot_planks": "2025-07-05 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-05 17:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-05 17:43:12 +0000"
     },
     "done": true
   },
