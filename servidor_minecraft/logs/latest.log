@@ -1059,3 +1059,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 16:56:57.189] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/57797, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
 [05Jul2025 16:57:12.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIxXD lost connection: Disconnected
 [05Jul2025 16:57:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIxXD left the game
+[05Jul2025 17:11:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[05Jul2025 17:13:02.049] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 17:13:02.052] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
