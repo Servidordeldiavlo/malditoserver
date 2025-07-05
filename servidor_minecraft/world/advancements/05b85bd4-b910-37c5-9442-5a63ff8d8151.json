@@ -6976,6 +6976,12 @@
     },
     "done": true
   },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-07-05 15:32:34 +0000"
+    },
+    "done": true
+  },
   "aether:craft_altar": {
     "criteria": {
       "craft_altar": "2025-07-05 15:00:57 +0000"
@@ -7003,6 +7009,12 @@
   "aether:silver_dungeon": {
     "criteria": {
       "kill_valkyrie_queen": "2025-07-05 14:41:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_leggings_repairing": {
+    "criteria": {
+      "has_gravitite_leggings": "2025-07-05 15:34:37 +0000"
     },
     "done": true
   },
@@ -7191,6 +7203,12 @@
       "has_holystone": "2025-07-05 14:49:35 +0000"
     },
     "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_leggings": "2025-07-05 15:34:37 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

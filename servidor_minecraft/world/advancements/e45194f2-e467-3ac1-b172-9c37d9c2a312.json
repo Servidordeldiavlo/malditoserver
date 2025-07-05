@@ -6269,6 +6269,12 @@
     },
     "done": true
   },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-07-05 15:32:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_aercloud_freezing": {
     "criteria": {
       "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
@@ -6314,6 +6320,12 @@
   "aether:incubate_moa": {
     "criteria": {
       "incubate_moa": "2025-07-05 14:55:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_axe_repairing": {
+    "criteria": {
+      "has_gravitite_axe": "2025-07-05 15:34:20 +0000"
     },
     "done": true
   },

@@ -767,3 +767,30 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 15:25:08.416] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/25147, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
 [05Jul2025 15:25:08.417] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/25147, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
 [05Jul2025 15:25:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -541.500000, 69.500000, 209.500000]
+[05Jul2025 15:27:01.191] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:27:01.194] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:27:31.589] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:27:31.592] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:28:44.537] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:28:44.540] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:29:01.488] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:29:01.491] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:30:37.288] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 15:30:37.290] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 15:30:58.539] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:30:58.542] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:31:06.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Fire Minion
+[05Jul2025 15:31:41.389] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 15:31:41.393] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 15:31:55.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Fire Minion
+[05Jul2025 15:32:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Extinguished]
+[05Jul2025 15:32:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Extinguished]
+[05Jul2025 15:32:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Extinguished]
+[05Jul2025 15:32:37.789] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 15:32:37.791] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 15:32:49.188] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:32:49.191] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:33:34.887] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 15:33:34.890] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 15:34:14.460] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[05Jul2025 15:34:20.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Fireproof]

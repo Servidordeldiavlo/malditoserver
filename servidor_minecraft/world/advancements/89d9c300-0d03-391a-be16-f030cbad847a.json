@@ -7802,5 +7802,17 @@
     },
     "done": true
   },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-07-05 15:32:34 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_gloves": "2025-07-05 15:34:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
