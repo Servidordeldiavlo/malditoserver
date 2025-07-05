@@ -649,3 +649,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 23:17:53.787] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
 [05Jul2025 23:18:46.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
 [05Jul2025 23:18:46.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[05Jul2025 23:23:39.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-306, y=68, z=1299} BlockPos{x=-307, y=68, z=1297}
+[05Jul2025 23:23:39.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-306, y=68, z=1299} BlockPos{x=-307, y=68, z=1297}
+[05Jul2025 23:23:45.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-306, y=68, z=1290} BlockPos{x=-305, y=68, z=1291}
