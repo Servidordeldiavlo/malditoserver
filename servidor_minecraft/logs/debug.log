@@ -4642,3 +4642,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jul2025 15:34:20.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Fireproof]
 [05Jul2025 15:34:51.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 15:34:51.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 15:37:22.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Baby Food]
+[05Jul2025 15:38:03.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 15:39:51.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 15:39:51.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 15:39:51.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -842.500000, 77.500000, 243.500000]
+[05Jul2025 15:40:12.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -730.500000, 68.500000, 84.500000]
+[05Jul2025 15:40:38.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -726.500000, 82.500000, -72.500000]
+[05Jul2025 15:41:05.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -774.500000, 65.500000, -248.500000]
+[05Jul2025 15:42:22.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -644.500000, 42.500000, -391.500000]
+[05Jul2025 15:42:31.884] [Worker-Main-104/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-426, y=47, z=-553}
+[05Jul2025 15:43:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 15:43:26.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 15:44:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 15:44:51.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 15:44:51.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

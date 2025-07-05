@@ -7814,5 +7814,17 @@
     },
     "done": true
   },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-07-05 15:37:22 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-07-05 15:37:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
