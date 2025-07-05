@@ -595,3 +595,33 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 22:36:44.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has completed the challenge [Great View From Up Here]
 [05Jul2025 22:36:57.613] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
 [05Jul2025 22:36:57.634] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 22:38:36.786] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[05Jul2025 22:38:36.789] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[05Jul2025 22:38:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD froze to death
+[05Jul2025 22:38:39.425] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[05Jul2025 22:39:13.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[05Jul2025 22:39:53.987] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 22:39:53.989] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 22:40:22.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to HEISENBERGXD]
+[05Jul2025 22:40:46.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved too quickly! -7.4757696893143475,-30.0,7.8379271328878986
+[05Jul2025 22:40:51.781] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 22:40:51.788] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 22:40:54.861] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[05Jul2025 22:40:54.863] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[05Jul2025 22:41:08.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD fell from a high place
+[05Jul2025 22:41:08.163] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[05Jul2025 22:41:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[05Jul2025 22:41:43.584] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 22:41:43.592] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 22:41:58.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[05Jul2025 22:42:00.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD fell from a high place
+[05Jul2025 22:42:00.741] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 22:42:13.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[05Jul2025 22:43:18.861] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[05Jul2025 22:43:18.863] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[05Jul2025 22:43:23.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Weird Fishes/Arpeggi]
+[05Jul2025 22:43:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to HEISENBERGXD]
+[05Jul2025 22:47:22.722] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/12617, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 22:47:22.722] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/12617, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 22:47:22.722] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/12617, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 22:47:34.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to Misterchuwa]
