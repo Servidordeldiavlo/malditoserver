@@ -580,3 +580,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 14:42:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Earning your Wings]
 [05Jul2025 14:42:32.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Battle Hardened]
 [05Jul2025 14:43:17.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Earning your Wings]
+[05Jul2025 14:47:37.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 14:53:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [... Until They hatch!]
+[05Jul2025 14:55:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [... Until They hatch!]

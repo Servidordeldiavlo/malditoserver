@@ -3994,3 +3994,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jul2025 14:43:17.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Earning your Wings]
 [05Jul2025 14:44:51.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 14:44:51.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 14:47:37.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 14:49:51.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 14:49:51.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 14:53:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [... Until They hatch!]
+[05Jul2025 14:54:51.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 14:54:51.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 14:55:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [... Until They hatch!]
