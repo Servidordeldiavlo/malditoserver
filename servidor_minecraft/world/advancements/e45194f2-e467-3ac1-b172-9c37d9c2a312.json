@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-03 20:56:39 +0000",
       "minecraft:taiga": "2025-07-03 20:45:04 +0000",
+      "minecraft:deep_ocean": "2025-07-05 02:22:29 +0000",
       "minecraft:eroded_badlands": "2025-06-24 02:45:03 +0000",
       "minecraft:frozen_river": "2025-07-03 20:54:03 +0000",
       "minecraft:windswept_hills": "2025-07-03 21:15:53 +0000",
@@ -48,6 +49,7 @@
       "minecraft:desert": "2025-06-23 03:36:00 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-03 21:22:13 +0000",
       "minecraft:jungle": "2025-06-24 23:35:46 +0000",
+      "minecraft:ocean": "2025-07-05 02:22:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-03 20:47:01 +0000",
       "minecraft:snowy_beach": "2025-07-03 21:20:24 +0000",
       "minecraft:windswept_savanna": "2025-07-03 23:05:14 +0000",
@@ -5617,9 +5619,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 02:31:21 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-07-05 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-07-05 02:31:21 +0000"
     },
     "done": true
   },
@@ -5638,6 +5652,24 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-07-05 02:14:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-07-05 02:31:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-05 02:29:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings_repairing": {
+    "criteria": {
+      "has_zanite_leggings": "2025-07-05 02:31:21 +0000"
     },
     "done": true
   },
