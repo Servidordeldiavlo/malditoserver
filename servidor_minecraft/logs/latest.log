@@ -1614,3 +1614,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 19:08:38.096] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/111401, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
 [05Jul2025 19:08:38.096] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/111401, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
 [05Jul2025 19:08:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[05Jul2025 19:10:50.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[05Jul2025 19:10:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 19:11:23.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/111360, l='ServerLevel[world]', x=-305.67, y=55.00, z=1035.06] died: skeleton demoniaco drowned
+[05Jul2025 19:11:38.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:50551] logged in with entity id 113619 at (-2248.521027242574, 74.0, 1706.4988378421367)
+[05Jul2025 19:11:38.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 19:14:07.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[05Jul2025 19:14:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Hot Stuff]

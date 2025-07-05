@@ -6634,9 +6634,36 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-07-05 18:30:45 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-07-05 18:30:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-07-05 18:30:55 +0000",
+      "deeplands": "2025-07-05 18:34:38 +0000",
+      "blooming_caverns": "2025-07-05 18:45:06 +0000",
+      "echoing_forest": "2025-07-05 18:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_gloomy_cactus": "2025-07-05 18:32:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_sculk_bone": "2025-07-05 18:33:34 +0000"
     },
     "done": true
   },
@@ -6664,12 +6691,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye": {
-    "criteria": {
-      "has_gloomy_cactus": "2025-07-05 18:32:43 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:36:12 +0000"
@@ -6682,36 +6703,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "overcast_columns": "2025-07-05 18:30:55 +0000",
-      "deeplands": "2025-07-05 18:34:38 +0000",
-      "blooming_caverns": "2025-07-05 18:45:06 +0000",
-      "echoing_forest": "2025-07-05 18:45:34 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:36:12 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_sculk_bone": "2025-07-05 18:33:34 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skreecher": {
-    "criteria": {
-      "killed": "2025-07-05 18:42:38 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/resonarium_plate": {
-    "criteria": {
-      "has_resonarium": "2025-07-05 18:47:08 +0000"
     },
     "done": true
   },
@@ -6727,21 +6721,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/echo_planks": {
-    "criteria": {
-      "has_logs": "2025-07-05 18:45:32 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:36:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/zanite_pickaxe_repairing": {
-    "criteria": {
-      "has_zanite_pickaxe": "2025-07-05 19:00:50 +0000"
     },
     "done": true
   },
@@ -6766,12 +6748,6 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:36:12 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-07-05 18:30:45 +0000"
     },
     "done": true
   },
@@ -6811,15 +6787,39 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-05 18:36:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-07-05 18:42:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_planks": {
+    "criteria": {
+      "has_logs": "2025-07-05 18:45:32 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/echo_wood": {
     "criteria": {
       "has_log": "2025-07-05 18:45:32 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
+  "deeperdarker:recipes/misc/resonarium_plate": {
     "criteria": {
-      "has_cobbled_sculk_stone": "2025-07-05 18:36:12 +0000"
+      "has_resonarium": "2025-07-05 18:47:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-07-05 19:00:50 +0000"
     },
     "done": true
   },
