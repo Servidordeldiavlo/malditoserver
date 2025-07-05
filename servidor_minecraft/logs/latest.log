@@ -1236,3 +1236,29 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 18:18:36.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:64835] logged in with entity id 83816 at (-2187.1283495464636, 65.0, 1746.0777722941193)
 [05Jul2025 18:18:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
 [05Jul2025 18:19:00.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/83330, l='ServerLevel[world]', x=-2676.46, y=131.00, z=-3186.52] died, message: 'Villager froze to death'
+[05Jul2025 18:19:03.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[05Jul2025 18:19:03.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[05Jul2025 18:21:37.519] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/84901, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 18:21:37.519] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/84901, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 18:21:37.520] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/84901, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 18:22:30.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:64882] logged in with entity id 85161 at (-2189.5349533649196, 66.0, 1748.2829827561002)
+[05Jul2025 18:22:30.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[05Jul2025 18:22:56.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:50113] logged in with entity id 85532 at (-2488.699999988079, -54.0, -4282.699999988079)
+[05Jul2025 18:22:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 18:23:26.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHUCHIXD> jose
+[05Jul2025 18:25:47.218] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/87493, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 18:25:47.218] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/87493, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 18:25:47.219] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/87493, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 18:26:15.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Jul2025 18:26:47.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Jul2025 18:27:08.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jul2025 18:27:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[05Jul2025 18:27:31.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [A Metropolis of Restless Souls]
+[05Jul2025 18:27:59.089] [Worker-Main-174/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[05Jul2025 18:28:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Below the Bedrock]
+[05Jul2025 18:28:01.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved too quickly! -9.96228123361675,0.0,2.0189862626425565
+[05Jul2025 18:28:01.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[05Jul2025 18:28:09.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD moved too quickly! 6.980981789811722,-53.799999952316284,-6.981030606015793
+[05Jul2025 18:28:11.026] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/88842, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 18:28:11.026] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/88842, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 18:28:11.026] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/88842, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
