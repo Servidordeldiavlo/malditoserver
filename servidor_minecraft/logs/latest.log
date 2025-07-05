@@ -879,3 +879,102 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 03:41:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
 [05Jul2025 03:46:16.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
 [05Jul2025 03:46:21.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
+[05Jul2025 03:50:13.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[05Jul2025 03:50:13.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 03:55:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set Misterchuwa's game mode to Survival Mode]
+[05Jul2025 03:56:27.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:57950] logged in with entity id 66638 at (-2578.3248534718105, 97.0, -3416.1284001586764)
+[05Jul2025 03:56:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 03:59:29.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to elpepe]
+[05Jul2025 03:59:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[05Jul2025 04:00:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[05Jul2025 04:00:49.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[05Jul2025 04:00:49.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[05Jul2025 04:00:55.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[05Jul2025 04:00:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 04:00:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> g
+[05Jul2025 04:01:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> g
+[05Jul2025 04:01:13.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> hola
+[05Jul2025 04:02:53.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:58048] logged in with entity id 68703 at (-2594.478297683528, 140.0, -3531.9647389334696)
+[05Jul2025 04:02:53.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 04:04:47.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[05Jul2025 04:04:47.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 04:06:39.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:58092] logged in with entity id 69744 at (-2591.0091639015654, 130.0, -3515.3690708626227)
+[05Jul2025 04:06:39.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 04:06:49.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56765] logged in with entity id 70001 at (-2605.971071617663, 152.06119675579438, -3501.425052877662)
+[05Jul2025 04:06:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[05Jul2025 04:07:04.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[05Jul2025 04:07:04.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[05Jul2025 04:10:37.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56879] logged in with entity id 71317 at (-2605.971071617663, 147.11119675579326, -3501.425052877662)
+[05Jul2025 04:10:37.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[05Jul2025 04:10:49.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[05Jul2025 04:10:49.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[05Jul2025 04:11:21.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/67559, l='ServerLevel[world]', x=-2553.55, y=137.00, z=-3628.50] died, message: 'Fletcher froze to death'
+[05Jul2025 04:11:54.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66844, l='ServerLevel[world]', x=-2541.46, y=134.00, z=-3627.47] died, message: 'Villager froze to death'
+[05Jul2025 04:12:18.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56952] logged in with entity id 71885 at (-2605.971071617663, 144.11119675579258, -3501.425052877662)
+[05Jul2025 04:12:18.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[05Jul2025 04:12:35.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[05Jul2025 04:13:36.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 04:15:23.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[05Jul2025 04:15:24.036] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/74410, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.036] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/74410, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 04:15:24.037] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/74410, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50].
+[05Jul2025 04:15:24.092] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74420, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.093] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74420, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:24.093] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/74420, l='ServerLevel[world]', x=-254.76, y=78.00, z=1026.38].
+[05Jul2025 04:15:24.095] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74422, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.096] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74422, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:24.096] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/74422, l='ServerLevel[world]', x=-269.50, y=77.00, z=1027.50].
+[05Jul2025 04:15:24.096] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74423, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.096] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74423, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:24.097] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/74423, l='ServerLevel[world]', x=-268.34, y=77.00, z=1025.64].
+[05Jul2025 04:15:24.097] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74424, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.097] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74424, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:24.097] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/74424, l='ServerLevel[world]', x=-263.28, y=78.00, z=1027.04].
+[05Jul2025 04:15:24.098] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74425, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.098] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74425, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:24.098] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/74425, l='ServerLevel[world]', x=-258.36, y=78.00, z=1025.07].
+[05Jul2025 04:15:24.192] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74440, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.192] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74440, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:24.192] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/74440, l='ServerLevel[world]', x=-279.73, y=76.00, z=1028.58].
+[05Jul2025 04:15:24.233] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74443, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.233] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74443, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:24.233] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/74443, l='ServerLevel[world]', x=-259.61, y=78.00, z=1023.76].
+[05Jul2025 04:15:24.629] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/74462, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:24.629] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/74462, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 04:15:24.629] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/74462, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 04:15:25.512] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74497, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:25.512] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74497, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:25.512] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/74497, l='ServerLevel[world]', x=-91.64, y=52.00, z=1084.64].
+[05Jul2025 04:15:25.513] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74498, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:25.513] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74498, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:25.513] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/74498, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36].
+[05Jul2025 04:15:25.514] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/74499, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 04:15:25.514] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/74499, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[05Jul2025 04:15:25.514] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['Skeleton demonio arquero'/74499, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36].
+[05Jul2025 04:15:34.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2688, y=107, z=-3813} BlockPos{x=-2690, y=108, z=-3812}
+[05Jul2025 04:15:52.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2695, y=112, z=-3799} BlockPos{x=-2694, y=111, z=-3800}
+[05Jul2025 04:15:53.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2695, y=112, z=-3799} BlockPos{x=-2694, y=111, z=-3800}
+[05Jul2025 04:16:20.891] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05Jul2025 04:16:20.892] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05Jul2025 04:16:28.075] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[05Jul2025 04:16:28.309] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Jul2025 04:16:28.309] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Jul2025 04:16:28.309] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Jul2025 04:16:28.310] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Jul2025 04:16:28.311] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Jul2025 04:16:28.321] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[05Jul2025 04:17:07.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 2.1497217375404034
+[05Jul2025 04:17:07.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 1.8110470189112675
+[05Jul2025 04:17:07.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 1.4663990149224446
+[05Jul2025 04:17:07.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 1.1163760824324527
+[05Jul2025 04:17:07.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 0.7615167463245598
+[05Jul2025 04:17:24.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/74497, l='ServerLevel[world]', x=-91.64, y=52.00, z=1084.64] died: Skeleton demonio arquero drowned
+[05Jul2025 04:17:24.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/74498, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36] died: Skeleton demonio arquero drowned
+[05Jul2025 04:17:24.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton demonio arquero'/74499, l='ServerLevel[world]', x=-89.64, y=50.00, z=1079.36] died: Skeleton demonio arquero drowned

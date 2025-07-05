@@ -25,11 +25,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-05 03:57:03 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-03 20:56:39 +0000",
       "minecraft:taiga": "2025-07-03 20:45:04 +0000",
       "minecraft:deep_ocean": "2025-07-05 02:22:29 +0000",
       "minecraft:eroded_badlands": "2025-06-24 02:45:03 +0000",
       "minecraft:frozen_river": "2025-07-03 20:54:03 +0000",
+      "minecraft:cherry_grove": "2025-07-05 03:45:49 +0000",
       "minecraft:windswept_hills": "2025-07-03 21:15:53 +0000",
       "minecraft:wooded_badlands": "2025-06-23 04:02:16 +0000",
       "minecraft:badlands": "2025-06-23 03:05:11 +0000",
@@ -43,6 +45,7 @@
       "minecraft:snowy_plains": "2025-07-03 21:13:11 +0000",
       "minecraft:dripstone_caves": "2025-07-03 21:55:59 +0000",
       "minecraft:snowy_taiga": "2025-07-03 21:19:33 +0000",
+      "minecraft:jagged_peaks": "2025-07-05 03:59:14 +0000",
       "minecraft:forest": "2025-06-23 23:17:14 +0000",
       "minecraft:lush_caves": "2025-06-24 02:54:48 +0000",
       "minecraft:frozen_ocean": "2025-07-03 21:20:36 +0000",
@@ -5619,15 +5622,63 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-05 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-05 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-05 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-05 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-05 02:14:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-05 02:29:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/tomb_raider": {
     "criteria": {
       "coded_trigger": "2025-07-05 02:31:21 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_typhon": {
+  "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
-      "location0": "2025-07-05 02:06:33 +0000"
+      "has_stone_sword": "2025-07-05 02:31:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-07-05 02:31:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings_repairing": {
+    "criteria": {
+      "has_zanite_leggings": "2025-07-05 02:31:21 +0000"
     },
     "done": true
   },
@@ -5637,9 +5688,33 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2025-07-05 02:36:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-07-05 02:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-05 02:50:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-07-05 03:03:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 03:24:31 +0000"
     },
     "done": true
   },
@@ -5655,75 +5730,51 @@
     },
     "done": true
   },
-  "aether:recipes/combat/stone_sword_repairing": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_stone_sword": "2025-07-05 02:31:21 +0000"
+      "has_log": "2025-07-05 03:46:02 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_cartography_table": {
+  "mcwdoors:recipes/cherry": {
     "criteria": {
-      "has_paper": "2025-07-05 02:11:45 +0000"
+      "has_wood": "2025-07-05 03:46:02 +0000"
     },
     "done": true
   },
-  "exposure:recipes/tools/photograph_frame": {
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
-      "has_photograph": "2025-07-05 02:36:05 +0000"
+      "has_log": "2025-07-05 03:46:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "mcwfurnitures:recipes/cherry": {
     "criteria": {
-      "has_paper": "2025-07-05 02:11:45 +0000"
+      "has_wood": "2025-07-05 03:46:02 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/mastery_1": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "coded_trigger": "2025-07-05 03:24:31 +0000"
+      "has_pink_petals": "2025-07-05 03:46:10 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_fishing_hut": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "location0": "2025-07-05 03:03:23 +0000"
+      "has_snowball": "2025-07-05 03:59:03 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "ex": "2025-07-05 02:14:07 +0000"
+      "has_snowball": "2025-07-05 03:59:03 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_boots_repairing": {
+  "dungeons_arise:find_wishing_well": {
     "criteria": {
-      "has_chainmail_boots": "2025-07-05 02:31:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-05 02:50:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-07-05 02:29:02 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_leggings_repairing": {
-    "criteria": {
-      "has_zanite_leggings": "2025-07-05 02:31:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-07-05 02:11:45 +0000"
+      "location0": "2025-07-05 04:10:52 +0000"
     },
     "done": true
   },
