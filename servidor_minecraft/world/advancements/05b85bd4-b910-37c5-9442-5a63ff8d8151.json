@@ -6988,6 +6988,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:55:09 +0000"
+    },
+    "done": true
+  },
   "aether:craft_altar": {
     "criteria": {
       "craft_altar": "2025-07-05 15:00:57 +0000"
@@ -7060,6 +7066,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2025-07-05 16:05:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/ambrosium_torch": {
     "criteria": {
       "has_holystone_pickaxe": "2025-07-05 14:19:21 +0000"
@@ -7069,6 +7081,12 @@
   "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-07-05 15:46:34 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-07-05 15:55:07 +0000"
     },
     "done": true
   },
@@ -7093,6 +7111,12 @@
   "aether:recipes/incubation/white_moa_incubation": {
     "criteria": {
       "has_white_moa_egg": "2025-07-05 14:52:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:55:09 +0000"
     },
     "done": true
   },
@@ -7126,6 +7150,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:55:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:55:09 +0000"
+    },
+    "done": true
+  },
   "aether:valkyrie_loot": {
     "criteria": {
       "valkyrie_gloves": "2025-07-05 14:43:17 +0000"
@@ -7150,9 +7186,27 @@
     },
     "done": true
   },
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
+    "criteria": {
+      "has_skyroot_pickaxe": "2025-07-05 16:05:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/remedy_bucket_enchanting": {
+    "criteria": {
+      "has_skyroot_poison_bucket": "2025-07-05 16:05:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/incubator": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-07-05 16:05:43 +0000"
     },
     "done": true
   },
@@ -7162,9 +7216,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:55:09 +0000"
+    },
+    "done": true
+  },
   "aether:incubate_moa": {
     "criteria": {
       "incubate_moa": "2025-07-05 14:53:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:55:09 +0000"
     },
     "done": true
   },
@@ -7192,9 +7258,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_skyroot_poison_bucket": "2025-07-05 16:05:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:55:09 +0000"
     },
     "done": true
   },
