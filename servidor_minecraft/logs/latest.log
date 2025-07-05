@@ -1747,3 +1747,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 21:19:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Eye Spy]
 [05Jul2025 21:19:28.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [The Cutest Predator]
 [05Jul2025 21:20:22.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[05Jul2025 21:27:39.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[05Jul2025 21:27:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Eye Spy]
+[05Jul2025 21:29:07.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Local Brewery]
+[05Jul2025 21:29:23.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[05Jul2025 21:29:23.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[05Jul2025 21:29:54.618] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/197950, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 21:29:54.618] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/197950, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 21:29:54.619] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/197950, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 21:31:06.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:49249] logged in with entity id 198397 at (-1717.0008953188626, -8.0, 1324.5717183797206)
+[05Jul2025 21:31:06.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[05Jul2025 21:32:00.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 21:32:00.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Eye Spy]
+[05Jul2025 21:32:12.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[05Jul2025 21:32:12.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Eye Spy]
+[05Jul2025 21:32:16.791] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 21:32:16.794] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
