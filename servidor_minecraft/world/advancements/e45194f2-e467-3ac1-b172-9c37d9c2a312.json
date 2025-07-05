@@ -6287,15 +6287,39 @@
     },
     "done": true
   },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2025-07-05 14:36:54 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_gloves": "2025-07-05 14:42:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/skyroot_pickaxe_repairing": {
     "criteria": {
       "has_skyroot_pickaxe": "2025-07-05 14:21:32 +0000"
     },
     "done": true
   },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2025-07-05 14:36:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/golden_aercloud_enchanting": {
     "criteria": {
       "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-07-05 14:42:32 +0000"
     },
     "done": true
   },

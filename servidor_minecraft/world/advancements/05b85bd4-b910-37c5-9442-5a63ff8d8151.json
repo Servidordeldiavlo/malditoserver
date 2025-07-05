@@ -6964,6 +6964,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-07-05 14:41:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/ambrosium_torch": {
     "criteria": {
       "has_holystone_pickaxe": "2025-07-05 14:19:21 +0000"
@@ -6979,6 +6985,12 @@
   "aether:recipes/incubation/blue_moa_incubation": {
     "criteria": {
       "has_blue_moa_egg": "2025-07-05 14:22:32 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_gloves": "2025-07-05 14:43:17 +0000"
     },
     "done": true
   },
