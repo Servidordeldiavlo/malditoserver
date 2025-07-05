@@ -904,6 +904,7 @@
       "minecraft:witch": "2025-06-25 01:58:01 +0000",
       "minecraft:wither_skeleton": "2025-06-23 05:21:09 +0000",
       "minecraft:husk": "2025-06-23 04:13:13 +0000",
+      "minecraft:piglin": "2025-07-05 19:44:06 +0000",
       "minecraft:enderman": "2025-06-24 17:51:40 +0000",
       "minecraft:silverfish": "2025-07-03 04:13:32 +0000",
       "minecraft:zombie": "2025-06-23 05:26:24 +0000",
@@ -6820,6 +6821,24 @@
   "aether:recipes/tools/zanite_pickaxe_repairing": {
     "criteria": {
       "has_zanite_pickaxe": "2025-07-05 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-05 19:46:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-05 19:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-05 19:40:49 +0000"
     },
     "done": true
   },

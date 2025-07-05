@@ -1629,3 +1629,32 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 19:29:46.584] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
 [05Jul2025 19:30:09.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Nightmare Fuel]
 [05Jul2025 19:30:17.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 19:32:51.499] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 19:32:51.501] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 19:33:08.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[05Jul2025 19:34:20.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHUCHIXD lost connection: Disconnected
+[05Jul2025 19:34:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD left the game
+[05Jul2025 19:34:21.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Nightmare Fuel]
+[05Jul2025 19:36:03.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:65148] logged in with entity id 128550 at (-265.978811984176, 64.0, 1165.890826678922)
+[05Jul2025 19:36:03.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[05Jul2025 19:36:33.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[05Jul2025 19:37:18.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 19:37:27.455] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 19:37:27.458] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 19:39:22.967] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 19:39:22.979] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 19:40:49.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Those Were the Days]
+[05Jul2025 19:41:39.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/111340, l='ServerLevel[world]', x=-296.52, y=92.00, z=1040.61] died: skeleton demoniaco was killed by CHUCHIXD using magic
+[05Jul2025 19:41:39.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/111361, l='ServerLevel[world]', x=-295.55, y=92.59, z=1044.43] died: skeleton demoniaco was killed by magic whilst trying to escape HEISENBERGXD
+[05Jul2025 19:41:39.961] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/111339, l='ServerLevel[world]', x=-290.22, y=92.00, z=1042.28] died: skeleton demoniaco was slain by CHUCHIXD
+[05Jul2025 19:41:41.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/111362, l='ServerLevel[world]', x=-290.59, y=92.00, z=1037.61] died: skeleton demoniaco was killed by CHUCHIXD using magic
+[05Jul2025 19:41:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 19:41:51.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Paint It Black]
+[05Jul2025 19:42:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 19:42:59.658] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 19:42:59.660] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 19:43:14.201] [Server thread/INFO] [Easy NPC/]: Opening menu 1d1e9faf-0eb9-4460-9901-f2675d417ad1 for npc 2245fb2d-fde9-4013-a92a-ed6d52dbe165 and player ServerPlayer['CHUCHIXD'/128550, l='ServerLevel[world]', x=-288.77, y=92.00, z=1042.76] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[05Jul2025 19:43:15.813] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC HumanoidSlim['entity.easy_npc.humanoid_slim'/111326, l='ServerLevel[world]', x=-288.50, y=92.00, z=1040.50] requested by ServerPlayer['CHUCHIXD'/128550, l='ServerLevel[world]', x=-288.77, y=92.00, z=1042.76]
+[05Jul2025 19:46:54.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/111338, l='ServerLevel[world]', x=-235.10, y=79.00, z=1030.00] died: skeleton demoniaco was killed by magic whilst trying to escape HEISENBERGXD
+[05Jul2025 19:47:07.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['skeleton demoniaco'/111337, l='ServerLevel[world]', x=-268.28, y=78.46, z=1021.38] died: skeleton demoniaco was killed by magic whilst trying to escape HEISENBERGXD
+[05Jul2025 19:47:42.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
