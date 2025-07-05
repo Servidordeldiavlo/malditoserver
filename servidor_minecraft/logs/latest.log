@@ -1805,3 +1805,29 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 21:42:52.100] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/202604, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
 [05Jul2025 21:43:09.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [It's an Emu!!!]
 [05Jul2025 21:43:24.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[05Jul2025 21:44:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to Misterchuwa]
+[05Jul2025 21:44:18.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[05Jul2025 21:44:27.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[05Jul2025 21:44:41.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved too quickly! -9.558998719414944,-1.4524514780759716,-3.0504482435335376
+[05Jul2025 21:45:00.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD lost connection: Disconnected
+[05Jul2025 21:45:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD left the game
+[05Jul2025 21:45:11.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HEISENBERGXD[/100.122.200.99:54377] logged in with entity id 204173 at (-577.7099489979354, 67.0, 1167.9102254562022)
+[05Jul2025 21:45:11.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD joined the game
+[05Jul2025 21:46:55.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[05Jul2025 21:46:55.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 21:47:19.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:51408] logged in with entity id 205372 at (-912.5696695380861, 65.25220334025373, 1220.385185692236)
+[05Jul2025 21:47:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 21:47:22.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to Misterchuwa]
+[05Jul2025 21:47:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[05Jul2025 21:49:16.074] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/206825, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 21:49:16.074] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/206825, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[05Jul2025 21:49:16.074] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/206825, l='ServerLevel[world]', x=-1718.50, y=-8.00, z=1324.50].
+[05Jul2025 21:49:29.725] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/207047, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 21:49:29.725] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/207047, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[05Jul2025 21:49:29.725] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/207047, l='ServerLevel[world]', x=-1718.50, y=-8.00, z=1324.50].
+[05Jul2025 21:51:28.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[05Jul2025 21:51:36.924] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 21:51:36.927] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 21:51:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[05Jul2025 21:52:00.417] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 21:52:00.420] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
