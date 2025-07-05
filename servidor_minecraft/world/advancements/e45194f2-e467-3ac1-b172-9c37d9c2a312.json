@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-05 03:57:03 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-03 20:56:39 +0000",
+      "minecraft:mushroom_fields": "2025-07-05 04:57:11 +0000",
       "minecraft:taiga": "2025-07-03 20:45:04 +0000",
       "minecraft:deep_ocean": "2025-07-05 02:22:29 +0000",
       "minecraft:eroded_badlands": "2025-06-24 02:45:03 +0000",
@@ -36,6 +37,7 @@
       "minecraft:windswept_hills": "2025-07-03 21:15:53 +0000",
       "minecraft:wooded_badlands": "2025-06-23 04:02:16 +0000",
       "minecraft:badlands": "2025-06-23 03:05:11 +0000",
+      "minecraft:savanna_plateau": "2025-07-05 05:06:28 +0000",
       "minecraft:beach": "2025-06-23 23:17:17 +0000",
       "minecraft:dark_forest": "2025-07-03 04:44:38 +0000",
       "minecraft:mangrove_swamp": "2025-06-23 22:18:39 +0000",
@@ -5787,9 +5789,51 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-07-05 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-05 04:26:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-07-05 04:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 04:26:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-07-05 04:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-05 04:26:30 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-05 04:19:21 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-05 04:26:30 +0000"
     },
     "done": true
   },
