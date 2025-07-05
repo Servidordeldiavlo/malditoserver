@@ -7190,6 +7190,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-07-05 21:19:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/redstone_mine": {
     "criteria": {
       "has_mine": "2025-07-05 19:38:58 +0000"
