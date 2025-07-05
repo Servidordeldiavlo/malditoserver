@@ -639,3 +639,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 22:53:24.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
 [05Jul2025 22:53:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
 [05Jul2025 22:55:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [An Alloy To Remember]
+[05Jul2025 23:07:40.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has reached the goal [Soul Magic]
