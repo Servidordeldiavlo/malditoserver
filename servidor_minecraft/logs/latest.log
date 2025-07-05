@@ -1763,3 +1763,45 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 21:32:12.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Eye Spy]
 [05Jul2025 21:32:16.791] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [05Jul2025 21:32:16.794] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 21:33:42.689] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 21:33:42.692] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 21:33:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh burned to death
+[05Jul2025 21:33:50.895] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 21:34:08.165] [Server thread/WARN] [tombstone/]: The death event of the player CHUCHIXD was canceled by another mod
+[05Jul2025 21:34:08.170] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[05Jul2025 21:34:08.690] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 21:34:08.694] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 21:34:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage by Misterchuwa using [Espada de netherita]
+[05Jul2025 21:34:11.198] [Server thread/INFO] [tombstone/]: The player CHUCHIXD has successfully been saved
+[05Jul2025 21:34:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[05Jul2025 21:35:23.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [The End?]
+[05Jul2025 21:35:28.296] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[05Jul2025 21:35:28.302] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[05Jul2025 21:35:29.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[05Jul2025 21:35:41.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The End?]
+[05Jul2025 21:35:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [The End?]
+[05Jul2025 21:35:55.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [The End?]
+[05Jul2025 21:36:11.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [The End?]
+[05Jul2025 21:36:11.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HEISENBERGXD moved too quickly! 1819.1394176537892,54.39260454995134,-1331.7403041459972
+[05Jul2025 21:36:29.286] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 21:36:29.292] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 21:36:56.535] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 21:36:56.541] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 21:37:02.887] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 21:37:02.893] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 21:37:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Free the End]
+[05Jul2025 21:38:14.721] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 21:38:14.725] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 21:38:28.052] [Server thread/WARN] [tombstone/]: The death event of the player HEISENBERGXD was canceled by another mod
+[05Jul2025 21:38:28.055] [Server thread/INFO] [tombstone/]: The player HEISENBERGXD has successfully been saved
+[05Jul2025 21:38:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 21:39:12.287] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 21:39:12.289] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 21:39:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe froze to death
+[05Jul2025 21:39:13.290] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 21:40:34.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [The Next Generation]
+[05Jul2025 21:42:52.100] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/202604, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 21:42:52.100] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/202604, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 21:42:52.100] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/202604, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 21:43:09.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [It's an Emu!!!]
+[05Jul2025 21:43:24.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]

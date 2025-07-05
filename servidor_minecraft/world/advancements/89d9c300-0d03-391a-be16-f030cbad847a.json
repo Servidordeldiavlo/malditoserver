@@ -1196,6 +1196,7 @@
       "minecraft:witch": "2025-06-23 05:22:13 +0000",
       "minecraft:wither_skeleton": "2025-06-23 03:39:02 +0000",
       "minecraft:husk": "2025-06-23 03:40:11 +0000",
+      "minecraft:ender_dragon": "2025-07-05 21:37:34 +0000",
       "minecraft:cave_spider": "2025-06-24 02:37:24 +0000",
       "minecraft:piglin": "2025-06-24 23:14:55 +0000",
       "minecraft:enderman": "2025-06-23 23:18:27 +0000",
@@ -8180,6 +8181,18 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-07-05 21:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 21:38:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-07-05 19:28:30 +0000"
@@ -8264,6 +8277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 21:38:48 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skreecher": {
     "criteria": {
       "killed": "2025-07-05 18:42:14 +0000"
@@ -8324,9 +8343,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-05 21:35:41 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-07-05 21:37:34 +0000"
     },
     "done": true
   },
@@ -8345,6 +8376,12 @@
   "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 21:38:48 +0000"
     },
     "done": true
   },
@@ -8468,6 +8505,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-05 21:35:41 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/gloomslate": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-05 18:51:30 +0000"
@@ -8483,6 +8526,18 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-05 20:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-05 21:38:48 +0000"
     },
     "done": true
   },
