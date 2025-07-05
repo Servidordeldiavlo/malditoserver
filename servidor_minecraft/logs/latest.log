@@ -625,3 +625,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 22:47:22.722] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/12617, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
 [05Jul2025 22:47:22.722] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/12617, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
 [05Jul2025 22:47:34.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to Misterchuwa]
+[05Jul2025 22:50:43.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to 12.500000, 62.500000, 14.500000]
+[05Jul2025 22:50:57.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[05Jul2025 22:51:03.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[05Jul2025 22:52:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
+[05Jul2025 22:52:31.018] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/15651, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 22:52:31.019] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/15651, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[05Jul2025 22:52:31.019] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/15651, l='ServerLevel[world]', x=-2158.50, y=79.00, z=1753.50].
+[05Jul2025 22:52:38.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 22:52:46.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[05Jul2025 22:52:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 22:53:03.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[05Jul2025 22:53:24.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[05Jul2025 22:53:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[05Jul2025 22:55:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [An Alloy To Remember]
