@@ -507,3 +507,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 13:55:19.179] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['skeleton demoniaco'/936, l='ServerLevel[world]', x=-259.61, y=78.00, z=1023.76].
 [05Jul2025 14:03:15.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:58407] logged in with entity id 2128 at (-257.5, 70.95, 1167.5)
 [05Jul2025 14:03:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[05Jul2025 14:06:56.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[05Jul2025 14:06:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 14:07:06.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64477] logged in with entity id 2597 at (-252.44499619623363, 65.0, 1168.019405630662)
+[05Jul2025 14:07:06.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 14:13:26.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[05Jul2025 14:13:36.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -441.500000, 75.500000, 1519.500000]
+[05Jul2025 14:13:43.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
