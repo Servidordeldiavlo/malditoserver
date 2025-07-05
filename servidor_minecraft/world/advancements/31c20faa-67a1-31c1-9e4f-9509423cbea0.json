@@ -6356,6 +6356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-05 20:17:36 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-07-05 18:37:48 +0000"
@@ -6368,6 +6374,12 @@
       "deeplands": "2025-07-05 18:35:26 +0000",
       "blooming_caverns": "2025-07-05 18:45:16 +0000",
       "echoing_forest": "2025-07-05 18:45:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-05 20:19:56 +0000"
     },
     "done": true
   },

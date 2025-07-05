@@ -7433,6 +7433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-05 20:14:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-07-05 18:50:53 +0000"
@@ -7442,6 +7448,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-05 19:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-05 20:14:36 +0000"
     },
     "done": true
   },

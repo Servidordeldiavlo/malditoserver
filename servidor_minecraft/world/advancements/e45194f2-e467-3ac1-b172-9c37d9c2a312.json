@@ -894,6 +894,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-01 23:34:08 +0000",
+      "minecraft:blaze": "2025-07-05 20:16:30 +0000",
       "minecraft:skeleton": "2025-06-23 05:21:35 +0000",
       "minecraft:ravager": "2025-06-24 02:02:19 +0000",
       "minecraft:hoglin": "2025-06-23 03:28:40 +0000",
@@ -6840,6 +6841,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-05 20:16:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-05 19:53:06 +0000"
@@ -6894,6 +6901,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-05 20:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-07-05 20:06:11 +0000"
@@ -6918,9 +6931,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 20:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-05 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-05 20:14:46 +0000"
     },
     "done": true
   },
@@ -6996,6 +7021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-05 20:16:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-05 20:06:11 +0000"
@@ -7005,6 +7036,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-05 19:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-05 20:16:31 +0000"
     },
     "done": true
   },

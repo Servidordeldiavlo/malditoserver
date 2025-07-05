@@ -7184,6 +7184,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 20:11:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/redstone_mine": {
     "criteria": {
       "has_mine": "2025-07-05 19:38:58 +0000"
