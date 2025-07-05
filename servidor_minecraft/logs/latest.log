@@ -1705,3 +1705,40 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 20:19:18.561] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [05Jul2025 20:19:18.564] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [05Jul2025 20:19:37.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Straddle My Ol' Saddle]
+[05Jul2025 20:24:20.277] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/153067, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 20:24:20.277] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/153067, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[05Jul2025 20:24:20.277] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/153067, l='ServerLevel[world]', x=-568.50, y=64.00, z=1272.50].
+[05Jul2025 20:25:18.975] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/153883, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 20:25:18.975] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/153883, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[05Jul2025 20:25:18.976] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/153883, l='ServerLevel[world]', x=-568.50, y=64.00, z=1272.50].
+[05Jul2025 20:25:35.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to HEISENBERGXD]
+[05Jul2025 20:26:57.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 20:27:27.451] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/148877, l='ServerLevel[world]', x=-473.77, y=68.00, z=77.92] died, message: 'Nitwit was slain by CHUCHIXD'
+[05Jul2025 20:28:02.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/155828, l='ServerLevel[world]', x=-483.50, y=65.00, z=87.83] died, message: 'Villager was slain by CHUCHIXD'
+[05Jul2025 20:28:05.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/155449, l='ServerLevel[world]', x=-483.52, y=65.19, z=87.70] died, message: 'Villager was slain by CHUCHIXD'
+[05Jul2025 20:28:47.308] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 20:28:47.311] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 20:30:19.411] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 20:30:19.417] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 20:30:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[05Jul2025 20:30:49.816] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 20:30:49.819] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 20:31:16.617] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 20:31:16.621] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 20:32:41.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -41.500000, 65.500000, 146.500000]
+[05Jul2025 20:32:48.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 20:33:05.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to HEISENBERGXD]
+[05Jul2025 20:33:56.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
+[05Jul2025 20:33:56.446] [Netty Epoll Server IO #0/WARN] [emotecraft/]: Player: ServerPlayer['CHUCHIXD'/128550, l='ServerLevel[world]', x=-277.03, y=68.00, z=1140.96] does not respect server-side emote tracking. Ignoring repeat
+[05Jul2025 20:33:56.447] [Netty Epoll Server IO #0/WARN] [emotecraft/]: Player: ServerPlayer['CHUCHIXD'/128550, l='ServerLevel[world]', x=-277.03, y=68.00, z=1140.96] does not respect server-side emote tracking. Ignoring repeat
+[05Jul2025 20:34:35.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported HEISENBERGXD to JAGlitsh]
+[05Jul2025 20:35:07.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
+[05Jul2025 20:35:30.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 20:46:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Eye Spy]
+[05Jul2025 20:58:21.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Life Finds A Way]
+[05Jul2025 20:59:38.824] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/180580, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 20:59:38.824] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/180580, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 20:59:38.824] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/180580, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 21:06:08.719] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/185088, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 21:06:08.719] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/185088, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 21:06:08.720] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/185088, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].

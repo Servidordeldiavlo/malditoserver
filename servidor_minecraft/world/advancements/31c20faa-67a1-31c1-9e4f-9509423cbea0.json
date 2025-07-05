@@ -6278,6 +6278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-05 20:46:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_mine": {
     "criteria": {
       "has_mine": "2025-07-05 19:50:05 +0000"
@@ -6377,6 +6383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-05 21:00:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-07-05 20:19:56 +0000"
@@ -6437,6 +6449,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-07-05 20:58:21 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-05 20:46:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
     "criteria": {
       "has_mine": "2025-07-05 19:50:05 +0000"
@@ -6491,6 +6515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 20:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-05 18:26:29 +0000"
@@ -6506,6 +6536,12 @@
   "securitycraft:recipes/tools/wire_cutters": {
     "criteria": {
       "has_mine": "2025-07-05 19:50:05 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-05 20:46:19 +0000"
     },
     "done": true
   },
@@ -6615,6 +6651,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-07-05 19:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-05 21:00:58 +0000"
     },
     "done": true
   },
