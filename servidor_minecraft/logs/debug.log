@@ -7818,3 +7818,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jul2025 19:15:37.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jul2025 19:20:37.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 19:20:37.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 19:20:47.428] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[05Jul2025 19:20:47.453] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[05Jul2025 19:21:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was obliterated by a sonically-charged shriek
+[05Jul2025 19:21:47.268] [Server thread/DEBUG] [tombstone/]: A new grave of the player Misterchuwa was created at position [x:-2553, y:-51, z:-3233, dim:minecraft:overworld]
+[05Jul2025 19:21:48.736] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751743308722
+[05Jul2025 19:25:37.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 19:25:37.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 19:27:03.905] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751743623443
+[05Jul2025 19:27:04.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Jul2025 19:29:46.550] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[05Jul2025 19:29:46.584] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[05Jul2025 19:30:09.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Nightmare Fuel]
+[05Jul2025 19:30:17.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 19:30:24.241] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751743824225
+[05Jul2025 19:30:39.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 19:30:39.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 19:30:41.804] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751743841738
+[05Jul2025 19:31:04.662] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751743864637

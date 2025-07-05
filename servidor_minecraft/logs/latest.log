@@ -1621,3 +1621,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 19:11:38.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [05Jul2025 19:14:07.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported CHUCHIXD to JAGlitsh]
 [05Jul2025 19:14:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HEISENBERGXD has made the advancement [Hot Stuff]
+[05Jul2025 19:20:47.428] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[05Jul2025 19:20:47.453] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[05Jul2025 19:21:47.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was obliterated by a sonically-charged shriek
+[05Jul2025 19:27:04.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Jul2025 19:29:46.550] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[05Jul2025 19:29:46.584] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[05Jul2025 19:30:09.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD has made the advancement [Nightmare Fuel]
+[05Jul2025 19:30:17.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
