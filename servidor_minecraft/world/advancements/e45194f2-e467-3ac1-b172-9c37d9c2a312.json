@@ -6269,19 +6269,19 @@
     },
     "done": true
   },
-  "aether:gold_dungeon": {
-    "criteria": {
-      "kill_sun_spirit": "2025-07-05 15:32:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_stairs": {
-    "criteria": {
-      "has_carved_stone": "2025-07-05 15:44:40 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
     "criteria": {
       "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
     },
@@ -6293,15 +6293,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/swet_lead": {
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
     "criteria": {
-      "has_swet_balls": "2025-07-05 15:40:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/cold_parachute": {
-    "criteria": {
-      "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
+      "has_skyroot_pickaxe": "2025-07-05 14:21:32 +0000"
     },
     "done": true
   },
@@ -6311,15 +6305,63 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+  "exposure:recipes/copying_black_and_white_photograph": {
     "criteria": {
-      "has_carved_stone": "2025-07-05 15:44:40 +0000"
+      "has_photograph": "2025-07-05 14:36:54 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_gloves": "2025-07-05 14:42:16 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-07-05 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2025-07-05 14:55:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-07-05 15:13:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-07-05 15:14:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 15:14:06 +0000"
+    },
+    "done": true
+  },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-07-05 15:32:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_axe_repairing": {
+    "criteria": {
+      "has_gravitite_axe": "2025-07-05 15:34:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-07-05 15:40:52 +0000"
     },
     "done": true
   },
@@ -6335,6 +6377,24 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-07-05 15:40:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:44:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-07-05 15:44:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-07-05 15:44:40 +0000"
@@ -6347,33 +6407,9 @@
     },
     "done": true
   },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_gloves": "2025-07-05 14:42:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/swet_sticky_piston": {
-    "criteria": {
-      "has_swet_balls": "2025-07-05 15:40:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/skyroot_pickaxe_repairing": {
-    "criteria": {
-      "has_skyroot_pickaxe": "2025-07-05 14:21:32 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/carved_slab": {
     "criteria": {
       "has_carved_stone": "2025-07-05 15:44:40 +0000"
-    },
-    "done": true
-  },
-  "aether:incubate_moa": {
-    "criteria": {
-      "incubate_moa": "2025-07-05 14:55:05 +0000"
     },
     "done": true
   },
@@ -6383,45 +6419,15 @@
     },
     "done": true
   },
-  "aether:recipes/tools/gravitite_axe_repairing": {
-    "criteria": {
-      "has_gravitite_axe": "2025-07-05 15:34:20 +0000"
-    },
-    "done": true
-  },
-  "exposure:recipes/copying_black_and_white_photograph": {
-    "criteria": {
-      "has_photograph": "2025-07-05 14:36:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
-    "criteria": {
-      "has_cold_aercloud": "2025-07-05 14:16:56 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/carved_wall": {
     "criteria": {
       "has_carved_stone": "2025-07-05 15:44:40 +0000"
     },
     "done": true
   },
-  "aether:regen_stone": {
+  "aether:recipes/tools/zanite_axe_repairing": {
     "criteria": {
-      "regen_stone": "2025-07-05 14:42:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_planks": {
-    "criteria": {
-      "has_logs": "2025-07-05 15:14:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_wood": {
-    "criteria": {
-      "has_log": "2025-07-05 15:14:06 +0000"
+      "has_zanite_axe": "2025-07-05 15:46:57 +0000"
     },
     "done": true
   },

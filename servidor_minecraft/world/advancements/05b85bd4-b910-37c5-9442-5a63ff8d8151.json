@@ -6958,6 +6958,12 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-07-05 15:46:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-07-05 14:22:32 +0000"
@@ -7000,6 +7006,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-07-05 15:46:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_stonecutter": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"
@@ -7024,9 +7036,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-07-05 15:45:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-07-05 15:46:34 +0000"
     },
     "done": true
   },
@@ -7039,6 +7063,18 @@
   "aether:recipes/decorations/ambrosium_torch": {
     "criteria": {
       "has_holystone_pickaxe": "2025-07-05 14:19:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-07-05 15:46:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-07-05 15:46:34 +0000"
     },
     "done": true
   },
@@ -7096,6 +7132,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_axe_repairing": {
+    "criteria": {
+      "has_zanite_axe": "2025-07-05 15:45:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/freezer": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"
@@ -7132,6 +7174,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2025-07-05 15:46:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"
@@ -7147,6 +7195,12 @@
   "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-05 14:49:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2025-07-05 15:46:34 +0000"
     },
     "done": true
   },

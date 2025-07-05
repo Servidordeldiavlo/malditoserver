@@ -805,3 +805,21 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 15:43:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [05Jul2025 15:43:26.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [05Jul2025 15:44:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 15:46:34.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Cold as Ice]
+[05Jul2025 15:51:01.037] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:51:01.047] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:51:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 15:52:04.287] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:52:04.299] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:52:04.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Like a Bossaru!]
+[05Jul2025 15:52:37.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 15:53:48.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[05Jul2025 15:53:48.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 15:54:05.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:65361] logged in with entity id 30735 at (-664.1794996081685, 50.24918707874468, -379.9749782863439)
+[05Jul2025 15:54:05.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 15:55:07.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Like a Bossaru!]
+[05Jul2025 15:55:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Like a Bossaru!]
+[05Jul2025 15:55:58.690] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 15:55:58.693] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 15:56:12.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh burned to death
+[05Jul2025 15:56:12.695] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
