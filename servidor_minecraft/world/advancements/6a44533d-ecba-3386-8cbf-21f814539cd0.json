@@ -2991,6 +2991,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_victory_medal": "2025-07-05 16:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-05 16:08:45 +0000"
@@ -3162,6 +3168,12 @@
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2025-07-05 16:02:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_victory_medal": "2025-07-05 16:32:55 +0000"
     },
     "done": true
   },
