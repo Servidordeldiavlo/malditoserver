@@ -1183,3 +1183,56 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [05Jul2025 17:58:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa tried to swim in lava to escape Warden
 [05Jul2025 17:58:33.062] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
 [05Jul2025 17:58:43.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 17:58:49.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:49994] logged in with entity id 75604 at (-2524.8633172529267, -50.0, -4093.0942315449715)
+[05Jul2025 17:58:49.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[05Jul2025 18:01:34.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 18:03:13.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has completed the challenge [It Spreads]
+[05Jul2025 18:04:15.501] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 18:04:15.511] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 18:05:01.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[05Jul2025 18:05:15.149] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 18:05:15.163] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 18:05:42.295] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[05Jul2025 18:05:42.307] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[05Jul2025 18:05:43.645] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 18:05:43.657] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 18:05:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[05Jul2025 18:06:02.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was slain by Warden
+[05Jul2025 18:06:23.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 18:07:50.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to elpepe]
+[05Jul2025 18:08:06.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2573.500000, 70.500000, -3509.500000]
+[05Jul2025 18:08:07.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityGorilla['Tarzan'/706, l='ServerLevel[world]', x=-272.74, y=64.00, z=1162.78] died: Tarzan was killed by magic whilst trying to escape elpepe
+[05Jul2025 18:08:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 18:08:20.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[05Jul2025 18:08:28.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2463.500000, -40.500000, -3836.500000]
+[05Jul2025 18:08:36.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> ..
+[05Jul2025 18:08:48.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2527.500000, -50.500000, -4274.500000]
+[05Jul2025 18:09:10.723] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/80294, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 18:09:10.723] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/80294, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 18:09:10.723] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/80294, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 18:09:14.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[05Jul2025 18:09:19.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to Misterchuwa]
+[05Jul2025 18:09:53.169] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/80590, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 18:09:53.169] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/80590, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 18:09:53.170] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/80590, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 18:10:07.959] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/80688, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 18:10:07.960] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/80688, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 18:10:07.960] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/80688, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 18:10:12.525] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/80718, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[05Jul2025 18:10:12.525] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/80718, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[05Jul2025 18:10:12.526] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/80718, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[05Jul2025 18:10:50.705] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[05Jul2025 18:10:50.708] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 18:10:51.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Misterchuwa
+[05Jul2025 18:10:51.856] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[05Jul2025 18:11:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[05Jul2025 18:12:13.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[05Jul2025 18:12:13.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[05Jul2025 18:15:51.448] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ancient_city took 387 ms
+[05Jul2025 18:17:27.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to -2623.500000, -39.000000, -3263.500000]
+[05Jul2025 18:17:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [A Metropolis of Restless Souls]
+[05Jul2025 18:17:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[05Jul2025 18:17:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [A Metropolis of Restless Souls]
+[05Jul2025 18:18:36.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHUCHIXD[/100.115.86.32:64835] logged in with entity id 83816 at (-2187.1283495464636, 65.0, 1746.0777722941193)
+[05Jul2025 18:18:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHUCHIXD joined the game
+[05Jul2025 18:19:00.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/83330, l='ServerLevel[world]', x=-2676.46, y=131.00, z=-3186.52] died, message: 'Villager froze to death'
