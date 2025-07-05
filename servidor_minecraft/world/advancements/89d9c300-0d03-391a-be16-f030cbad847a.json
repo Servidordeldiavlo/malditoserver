@@ -1151,6 +1151,7 @@
       "cooked_porkchop": "2025-06-23 03:43:00 +0000",
       "cooked_mutton": "2025-06-23 03:37:18 +0000",
       "cooked_beef": "2025-06-24 20:00:40 +0000",
+      "chorus_fruit": "2025-07-05 22:05:42 +0000",
       "baked_potato": "2025-06-26 02:16:02 +0000",
       "porkchop": "2025-06-23 03:41:00 +0000",
       "apple": "2025-06-24 20:15:19 +0000",
@@ -8274,6 +8275,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-07-05 18:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-05 22:06:22 +0000"
     },
     "done": true
   },
