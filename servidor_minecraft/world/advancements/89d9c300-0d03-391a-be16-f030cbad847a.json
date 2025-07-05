@@ -7778,15 +7778,15 @@
     },
     "done": true
   },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2025-07-05 06:10:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-07-05 06:03:46 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-07-05 06:10:17 +0000"
     },
     "done": true
   },

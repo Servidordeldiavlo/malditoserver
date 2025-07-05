@@ -6293,6 +6293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-07-05 15:13:20 +0000"
+    },
+    "done": true
+  },
   "aether:valkyrie_loot": {
     "criteria": {
       "valkyrie_gloves": "2025-07-05 14:42:16 +0000"
@@ -6326,6 +6332,18 @@
   "aether:regen_stone": {
     "criteria": {
       "regen_stone": "2025-07-05 14:42:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-07-05 15:14:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 15:14:06 +0000"
     },
     "done": true
   },
