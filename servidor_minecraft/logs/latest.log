@@ -482,3 +482,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [11Jul2025 03:13:58.401] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/705, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
 [11Jul2025 03:13:58.408] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/705, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
 [11Jul2025 03:13:58.409] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/705, l='ServerLevel[world]', x=-2246.50, y=74.00, z=1706.50].
+[11Jul2025 03:19:50.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 3.5458752990812172,-15.0,4.572084623131332
+[11Jul2025 03:26:52.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -6.9838186194797345,6.0,-6.416878177416493
+[11Jul2025 03:27:13.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[11Jul2025 03:27:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
