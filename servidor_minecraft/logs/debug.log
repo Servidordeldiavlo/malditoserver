@@ -3497,3 +3497,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jul2025 03:26:52.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -6.9838186194797345,6.0,-6.416878177416493
 [11Jul2025 03:27:13.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
 [11Jul2025 03:27:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[11Jul2025 03:30:35.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 03:30:35.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 03:35:35.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 03:35:35.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
