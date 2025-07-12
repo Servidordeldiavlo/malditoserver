@@ -4865,3 +4865,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jul2025 06:46:58.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [12Jul2025 06:48:02.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Re-Extinct]
 [12Jul2025 06:48:26.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Life Finds A Way]
+[12Jul2025 06:50:13.782] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[12Jul2025 06:50:13.816] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[12Jul2025 06:50:25.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 06:51:43.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 06:51:43.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 06:52:15.071] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[12Jul2025 06:52:15.248] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[12Jul2025 06:52:27.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 06:56:43.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 06:56:43.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 06:57:20.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 06:58:11.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Tastes Like Chicken]
