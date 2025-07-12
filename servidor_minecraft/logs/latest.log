@@ -539,3 +539,26 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Jul2025 05:52:34.601] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
 [12Jul2025 05:52:35.842] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
 [12Jul2025 05:54:08.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 05:57:56.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[12Jul2025 05:57:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[12Jul2025 05:58:43.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[12Jul2025 05:58:43.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[12Jul2025 05:59:19.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:53852] logged in with entity id 24324 at (-3665.0724668071935, 79.02442408821369, 8344.327310373084)
+[12Jul2025 05:59:19.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[12Jul2025 05:59:31.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[12Jul2025 05:59:31.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[12Jul2025 06:00:26.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:60213] logged in with entity id 24573 at (-3637.7721234420796, 98.02442408821369, 8385.611225858132)
+[12Jul2025 06:00:26.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[12Jul2025 06:02:33.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:53930] logged in with entity id 25143 at (-3665.0724668071935, 79.0, 8344.327310373084)
+[12Jul2025 06:02:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[12Jul2025 06:02:45.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 06:04:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -3607.500000, 102.500000, 8858.500000]
+[12Jul2025 06:04:50.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -3571.500000, 64.500000, 9014.500000]
+[12Jul2025 06:04:57.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 06:06:41.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[12Jul2025 06:06:41.286] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/27131, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 06:06:41.286] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/27131, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[12Jul2025 06:06:41.287] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/27131, l='ServerLevel[world]', x=-282.50, y=64.00, z=1191.50].
+[12Jul2025 06:06:41.661] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/27191, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 06:06:41.661] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/27191, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[12Jul2025 06:06:41.662] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/27191, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].

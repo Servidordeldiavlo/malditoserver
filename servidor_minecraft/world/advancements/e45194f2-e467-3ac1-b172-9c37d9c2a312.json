@@ -7507,33 +7507,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2025-07-12 05:14:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-07-12 05:41:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-12 05:35:06 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_greenwood_pub": {
-    "criteria": {
-      "location0": "2025-07-12 05:52:57 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-07-12 05:06:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-07-12 05:06:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-07-12 05:14:25 +0000"
     },
     "done": true
   },
@@ -7549,9 +7537,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-07-12 05:06:19 +0000"
+      "tamed_animal": "2025-07-12 05:35:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-07-12 05:41:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-07-12 05:52:57 +0000"
     },
     "done": true
   },
