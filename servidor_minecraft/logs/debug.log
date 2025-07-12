@@ -3712,3 +3712,23 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jul2025 03:41:00.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Jul2025 03:46:00.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jul2025 03:46:00.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 03:51:00.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 03:51:00.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 03:56:00.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 03:56:00.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 04:00:32.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 04:01:00.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 04:01:00.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 04:02:47.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Chompy]
+[12Jul2025 04:03:11.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 9.203282584646104,-0.6747520358529187,5.45882474854875
+[12Jul2025 04:04:17.608] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=2b4e3589-0000-0000-0000-000000000000, length=143, extra={valid=true}}, startingAt=0, player=null}
+[12Jul2025 04:04:24.622] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 05b85bd4-b910-37c5-9442-5a63ff8d8151 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=2b4e3589-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[12Jul2025 04:05:06.768] [Worker-Main-44/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 04:05:07.407] [Worker-Main-52/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Jul2025 04:05:07.410] [Worker-Main-52/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Jul2025 04:05:43.384] [Worker-Main-65/DEBUG] [com.bobmowzie.mowziesmobs.MowziesMobs/]: Monastery at BlockPos{x=-360, y=0, z=2584}
+[12Jul2025 04:06:00.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 04:06:00.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 04:06:56.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Greed may lead to loss]
+[12Jul2025 04:06:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [What Happens in Las Vegas...]
+[12Jul2025 04:07:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
