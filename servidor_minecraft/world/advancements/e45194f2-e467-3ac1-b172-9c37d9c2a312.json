@@ -36,6 +36,7 @@
       "minecraft:birch_forest": "2025-07-05 04:15:44 +0000",
       "minecraft:windswept_hills": "2025-07-03 21:15:53 +0000",
       "minecraft:wooded_badlands": "2025-06-23 04:02:16 +0000",
+      "minecraft:bamboo_jungle": "2025-07-12 06:38:44 +0000",
       "minecraft:badlands": "2025-06-23 03:05:11 +0000",
       "minecraft:savanna_plateau": "2025-07-05 05:06:28 +0000",
       "minecraft:beach": "2025-06-23 23:17:17 +0000",
@@ -7552,6 +7553,12 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-07-12 05:52:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-12 06:45:50 +0000"
     },
     "done": true
   },

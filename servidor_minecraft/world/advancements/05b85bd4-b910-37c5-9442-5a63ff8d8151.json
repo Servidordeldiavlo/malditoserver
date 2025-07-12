@@ -33,6 +33,7 @@
       "minecraft:sunflower_plains": "2025-06-26 03:52:58 +0000",
       "minecraft:birch_forest": "2025-06-26 03:58:34 +0000",
       "minecraft:wooded_badlands": "2025-06-24 19:21:38 +0000",
+      "minecraft:bamboo_jungle": "2025-07-12 06:38:04 +0000",
       "minecraft:badlands": "2025-06-23 02:38:03 +0000",
       "minecraft:savanna_plateau": "2025-06-26 03:42:02 +0000",
       "minecraft:beach": "2025-06-23 22:41:26 +0000",
@@ -709,6 +710,7 @@
       "cooked_mutton": "2025-06-23 03:16:04 +0000",
       "cooked_beef": "2025-06-23 22:58:49 +0000",
       "chorus_fruit": "2025-06-26 22:40:24 +0000",
+      "baked_potato": "2025-07-12 06:21:08 +0000",
       "apple": "2025-06-24 19:51:21 +0000",
       "pumpkin_pie": "2025-06-23 23:32:01 +0000",
       "bread": "2025-06-23 03:46:39 +0000",
@@ -7711,6 +7713,18 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-07-12 05:54:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-12 06:44:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-07-12 06:43:56 +0000"
     },
     "done": true
   },
