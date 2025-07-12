@@ -7676,15 +7676,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-07-05 22:43:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-07-05 22:30:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-07-05 22:43:23 +0000"
     },
     "done": true
   },
