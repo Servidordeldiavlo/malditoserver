@@ -502,3 +502,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Jul2025 04:06:56.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Greed may lead to loss]
 [12Jul2025 04:06:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [What Happens in Las Vegas...]
 [12Jul2025 04:07:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 04:12:02.283] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/26532, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 04:12:02.284] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/26532, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[12Jul2025 04:12:02.285] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/26532, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[12Jul2025 04:12:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 04:20:23.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
