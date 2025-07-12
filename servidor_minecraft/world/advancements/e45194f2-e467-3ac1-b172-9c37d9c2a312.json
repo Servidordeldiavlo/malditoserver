@@ -48,6 +48,7 @@
       "minecraft:snowy_plains": "2025-07-03 21:13:11 +0000",
       "minecraft:dripstone_caves": "2025-07-03 21:55:59 +0000",
       "minecraft:snowy_taiga": "2025-07-03 21:19:33 +0000",
+      "minecraft:swamp": "2025-07-12 05:45:16 +0000",
       "minecraft:jagged_peaks": "2025-07-05 03:59:14 +0000",
       "minecraft:forest": "2025-06-23 23:17:14 +0000",
       "minecraft:lush_caves": "2025-06-24 02:54:48 +0000",
@@ -7510,9 +7511,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-07-12 05:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-12 05:35:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-07-12 05:06:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-07-12 05:33:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-07-12 05:33:23 +0000"
     },
     "done": true
   },
