@@ -7716,9 +7716,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "alexscaves:alexscaves/limestone": {
     "criteria": {
-      "killed_by_tremorsaurus": "2025-07-12 06:48:26 +0000"
+      "limestone": "2025-07-12 06:43:56 +0000"
     },
     "done": true
   },
@@ -7728,9 +7728,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/limestone": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "limestone": "2025-07-12 06:43:56 +0000"
+      "killed_by_tremorsaurus": "2025-07-12 06:48:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-07-12 06:58:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-07-12 16:03:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-12 16:03:24 +0000"
     },
     "done": true
   },

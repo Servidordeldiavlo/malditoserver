@@ -7556,15 +7556,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-12 06:45:50 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_relicheirus": "2025-07-12 06:48:02 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
+  "alexscaves:alexscaves/limestone": {
     "criteria": {
-      "discover": "2025-07-12 06:45:50 +0000"
+      "limestone": "2025-07-12 15:28:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-07-12 15:39:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-07-12 15:45:58 +0000"
     },
     "done": true
   },
