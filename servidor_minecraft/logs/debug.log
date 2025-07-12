@@ -3688,3 +3688,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jul2025 05:15:30.733] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/5871, l='ServerLevel[world]', x=-2159.50, y=80.00, z=1738.50].
 [12Jul2025 05:15:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
 [12Jul2025 05:16:07.278] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[12Jul2025 05:16:42.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:16:42.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 05:21:42.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:21:42.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 05:21:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Race Against The Clock]

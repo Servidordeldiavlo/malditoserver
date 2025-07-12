@@ -496,3 +496,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Jul2025 05:15:30.732] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/5871, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
 [12Jul2025 05:15:30.733] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/5871, l='ServerLevel[world]', x=-2159.50, y=80.00, z=1738.50].
 [12Jul2025 05:15:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
+[12Jul2025 05:21:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Race Against The Clock]
