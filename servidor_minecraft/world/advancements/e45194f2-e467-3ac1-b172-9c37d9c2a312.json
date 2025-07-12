@@ -7485,5 +7485,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2025-07-12 04:49:03 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-07-12 04:48:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -3955,3 +3955,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jul2025 04:39:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Bath Bomb]
 [12Jul2025 04:41:00.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jul2025 04:41:00.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 04:44:22.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Crisis Adverted]
+[12Jul2025 04:44:45.213] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[12Jul2025 04:44:45.220] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[12Jul2025 04:44:48.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 04:44:53.817] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[12Jul2025 04:44:53.823] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[12Jul2025 04:45:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Brainiac
+[12Jul2025 04:45:19.030] [Server thread/DEBUG] [tombstone/]: A new grave of the player elpepe was created at position [x:-2490, y:-50, z:-3845, dim:minecraft:overworld]
+[12Jul2025 04:45:20.987] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1752295520976
+[12Jul2025 04:45:21.084] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/32711, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 04:45:21.084] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/32711, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[12Jul2025 04:45:21.085] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/32711, l='ServerLevel[world]', x=-2142.50, y=64.00, z=1760.50].
+[12Jul2025 04:46:00.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 04:46:00.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 04:48:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Brains and Brawn]
+[12Jul2025 04:51:00.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 04:51:00.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 04:52:06.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
+[12Jul2025 04:52:07.748] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/34759, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 04:52:07.748] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/34759, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[12Jul2025 04:52:07.749] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/34759, l='ServerLevel[world]', x=-2158.50, y=78.00, z=1750.50].
