@@ -7335,33 +7335,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2025-07-12 03:50:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-07-12 03:32:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2025-07-12 03:50:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-07-12 03:49:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-07-12 03:49:47 +0000"
     },
     "done": true
   },
@@ -7377,27 +7353,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-12 03:49:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-07-12 03:32:16 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-07-12 04:02:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-12 03:49:47 +0000"
     },
     "done": true
   },
@@ -7407,9 +7365,51 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_cupidity": {
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
-      "coded_trigger": "2025-07-12 04:06:56 +0000"
+      "has_needed_dye": "2025-07-12 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-12 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-12 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-12 03:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-12 03:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-12 03:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-12 03:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-12 03:49:47 +0000"
     },
     "done": true
   },
@@ -7425,9 +7425,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
+  "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
-      "has_needed_dye": "2025-07-12 03:32:16 +0000"
+      "has_purple_dye": "2025-07-12 03:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-07-12 03:50:09 +0000"
     },
     "done": true
   },
@@ -7443,27 +7449,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-07-12 03:32:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-12 03:50:09 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/sulfur_dust": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "sulfur_dust": "2025-07-12 04:26:09 +0000"
+      "killed_by": "2025-07-12 04:02:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
+  "tombstone:adventure/use_cupidity": {
     "criteria": {
-      "has_red_dye": "2025-07-12 03:32:16 +0000"
+      "coded_trigger": "2025-07-12 04:06:56 +0000"
     },
     "done": true
   },
@@ -7473,9 +7473,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+  "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
-      "has_red_dye": "2025-07-12 03:32:16 +0000"
+      "sulfur_dust": "2025-07-12 04:26:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-07-12 04:39:24 +0000"
     },
     "done": true
   },

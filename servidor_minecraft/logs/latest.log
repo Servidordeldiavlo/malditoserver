@@ -515,3 +515,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Jul2025 04:26:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Smelly Situation]
 [12Jul2025 04:29:14.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
 [12Jul2025 04:29:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[12Jul2025 04:35:04.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:59814] logged in with entity id 30804 at (-2512.680426318947, -42.0, -3866.1060873672095)
+[12Jul2025 04:35:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[12Jul2025 04:37:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 04:39:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Bath Bomb]
