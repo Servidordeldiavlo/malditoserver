@@ -532,3 +532,10 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Jul2025 05:41:38.909] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/12961, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
 [12Jul2025 05:41:38.909] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/12961, l='ServerLevel[world]', x=-2229.50, y=67.00, z=1726.50].
 [12Jul2025 05:43:30.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[12Jul2025 05:48:38.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -8.98955946733713,2.3843642093052395,5.35654479513687
+[12Jul2025 05:49:05.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -4407.500000, 64.500000, 6311.500000]
+[12Jul2025 05:49:05.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -3.0057147999041263,-0.04470822078959458,9.631700125458337
+[12Jul2025 05:49:11.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 05:52:34.601] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[12Jul2025 05:52:35.842] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[12Jul2025 05:54:08.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
