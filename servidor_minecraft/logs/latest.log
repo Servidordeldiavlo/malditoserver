@@ -507,3 +507,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Jul2025 04:12:02.285] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/26532, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
 [12Jul2025 04:12:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [12Jul2025 04:20:23.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[12Jul2025 04:21:31.045] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/28346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 04:21:31.046] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/28346, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[12Jul2025 04:21:31.047] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/28346, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[12Jul2025 04:22:56.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2463.500000, -40.500000, -3836.500000]
+[12Jul2025 04:23:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 04:26:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Smelly Situation]
+[12Jul2025 04:29:14.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[12Jul2025 04:29:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
