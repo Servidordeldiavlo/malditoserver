@@ -497,3 +497,27 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [12Jul2025 05:15:30.733] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/5871, l='ServerLevel[world]', x=-2159.50, y=80.00, z=1738.50].
 [12Jul2025 05:15:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2249.500000, 75.500000, 1707.500000]
 [12Jul2025 05:21:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Race Against The Clock]
+[12Jul2025 05:29:20.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 1861.8571256780328,-75.9,-1549.9619872626247
+[12Jul2025 05:29:20.640] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/9587, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 05:29:20.640] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/9587, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[12Jul2025 05:29:20.641] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/9587, l='ServerLevel[world]', x=-306.50, y=-50.00, z=160.50].
+[12Jul2025 05:29:47.234] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[12Jul2025 05:29:47.239] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[12Jul2025 05:29:51.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe drowned
+[12Jul2025 05:29:51.739] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[12Jul2025 05:29:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 05:30:03.789] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/10024, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 05:30:03.789] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/10024, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[12Jul2025 05:30:03.790] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/10024, l='ServerLevel[world]', x=-367.50, y=-9.00, z=192.50].
+[12Jul2025 05:32:24.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 05:33:17.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to 7390.500000, -47.500000, 5130.500000]
+[12Jul2025 05:33:22.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 05:33:23.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Shell City]
+[12Jul2025 05:33:23.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Beyond the Sea]
+[12Jul2025 05:33:28.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -254.500000, 65.500000, 1167.500000]
+[12Jul2025 05:33:28.735] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/11275, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[12Jul2025 05:33:28.736] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/11275, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[12Jul2025 05:33:28.736] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/11275, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[12Jul2025 05:34:18.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[12Jul2025 05:34:44.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityGorilla['Tarzan'/11208, l='ServerLevel[world]', x=-277.63, y=64.00, z=1169.32] died: Tarzan was shot by elpepe
+[12Jul2025 05:35:06.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Best Friends Forever]

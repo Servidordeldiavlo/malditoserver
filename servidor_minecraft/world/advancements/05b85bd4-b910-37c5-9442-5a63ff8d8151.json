@@ -7700,5 +7700,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-07-12 05:21:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
