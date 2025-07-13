@@ -7586,5 +7586,17 @@
     },
     "done": true
   },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-13 03:11:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-07-13 03:06:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

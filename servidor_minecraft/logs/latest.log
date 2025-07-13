@@ -496,3 +496,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Jul2025 03:01:02.538] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/6734, l='ServerLevel[world]', x=-2161.50, y=78.00, z=1748.50].
 [13Jul2025 03:01:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [13Jul2025 03:06:40.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Swaggy Meal Mommy Made It]
+[13Jul2025 03:13:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Fishy Business]
+[13Jul2025 03:15:43.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Fishy Business]
