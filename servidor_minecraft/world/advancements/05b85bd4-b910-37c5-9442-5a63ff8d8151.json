@@ -7740,15 +7740,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-12 16:03:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-07-12 16:03:45 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_bookshelf": "2025-07-12 16:03:24 +0000"
+      "cave_codex": "2025-07-13 02:55:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-07-13 02:57:54 +0000"
     },
     "done": true
   },

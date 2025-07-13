@@ -480,3 +480,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [13Jul2025 02:37:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [13Jul2025 02:37:59.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3250ms or 65 ticks behind
 [13Jul2025 02:41:00.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/898, l='ServerLevel[world]', x=-3572.82, y=65.18, z=13767.42] died, message: 'Cleric was slain by Zombie'
+[13Jul2025 02:49:08.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:58835] logged in with entity id 2843 at (-278.07499998807907, 68.0, 1139.874312492374)
+[13Jul2025 02:49:08.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[13Jul2025 02:49:10.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 6.901566674780042,0.8800391385729611,7.43315215860639
+[13Jul2025 02:49:10.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Jul2025 02:49:11.728] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/3018, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[13Jul2025 02:49:11.728] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/3018, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[13Jul2025 02:49:11.729] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/3018, l='ServerLevel[world]', x=-385.50, y=89.00, z=1222.50].
+[13Jul2025 02:55:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[13Jul2025 02:55:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Lorem Ipsum]
+[13Jul2025 02:55:48.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[13Jul2025 02:57:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Swaggy Meal Mommy Made It]
+[13Jul2025 03:01:02.537] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/6734, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[13Jul2025 03:01:02.537] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/6734, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[13Jul2025 03:01:02.538] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Skeleton['entity.easy_npc.skeleton'/6734, l='ServerLevel[world]', x=-2161.50, y=78.00, z=1748.50].
+[13Jul2025 03:01:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[13Jul2025 03:06:40.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Swaggy Meal Mommy Made It]
